@@ -1,8 +1,6 @@
-# Perimeter
-Simple lógica para tomar datos por consola y trabajarlos 
+#Perimeter
 
-######Java application 
-##Simple business logic to answer a math operation
+##Simple business logic to answer a math operation in a Java application 
 <br/>
 
 ### Table of contents
