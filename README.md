@@ -1,4 +1,4 @@
-# Perimetro
+# Perimeter
 Simple lógica para tomar datos por consola y trabajarlos 
 
 ######Java application 
