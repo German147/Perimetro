@@ -1,7 +1,7 @@
 #Perimeter
 
 ##Simple business logic to answer a math operation in a Java application 
-<br/>
+
 
 ### Table of contents
 * [General info](#general-info)
@@ -9,7 +9,7 @@
 * [Setup](#setup)
 
 ## General info
-Kind of Small desktop Java app applying some concept on business logic to answer a math operation
+Kind of Small Java app applying some concept on business logic to answer a math operation
 
 ### Technologies 
 
